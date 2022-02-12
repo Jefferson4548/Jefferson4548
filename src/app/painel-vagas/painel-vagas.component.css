@@ -1,0 +1,31 @@
+.caixas{
+    width: 500px;
+    flex:content;
+    margin: 25px 10px;
+}
+
+h2{
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #2e63f3;
+    margin: 10px;
+}
+
+form div label{
+    margin:  10px 20px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+input{
+    border-radius: 20px;
+}
+
+button{
+    border-radius: 20px;
+    font-weight: bolder;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #2e63f3;  
+    color: #ffffff;
+    margin: 10px 10px;
+}
